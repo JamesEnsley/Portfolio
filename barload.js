@@ -24,7 +24,7 @@ setInterval(() => {
 
 let kcounter = 0;
 setInterval(() => {
-  if (kcounter == 30) {
+  if (kcounter == 85) {
     clearInterval();
   } else {
     kcounter += 1;
